@@ -1,0 +1,88 @@
+/*index.html*/ 
+body{
+    margin: 0;
+    background-color:  rgba(253, 239, 222, 0.581);
+}
+
+h1{
+
+    text-align: center;
+    font-size: 3em;
+    color: peru;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+li{
+    color: peru;
+}
+
+
+p{
+    color: cadetblue;
+}
+
+.hero{
+background-color: bisque;
+text-align: center;
+}
+
+.logo{
+    width: 40%;
+    padding-bottom: 1%;
+    
+    }
+
+.h2tgcs{
+    color: peru;
+    text-align: center;
+    padding-top: 0%;
+}
+
+.intro{
+
+    text-align: center;
+}
+
+.pintro{
+    width: 40%;
+    text-align: center;
+    padding-left: 440px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.menu{
+    color: peru;
+}
+
+.carte{
+    color: peru;
+}
+
+.iti{
+    text-align: center;
+    color: peru;
+
+}
+
+.iti p{
+    color: peru;
+font-size: 20px;
+padding-top: 0%;
+padding-bottom: 5%;
+
+}
+
+.iti img{
+width: 30%;
+}
+
+table{
+text-align: center;
+
+}
+/*Lieux*/ 
+
+
